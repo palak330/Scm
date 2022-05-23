@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="shortcut icon" type="image/x-icon" href="cse logo.jpg">
+        <meta name="description" content=" this blogpage gives u complete information popular streams in engineering">
+        <meta name="keywords" content="Engineering ,Streams in engineering ,CSE ,EEE ,Mechanical Engineering ,Civil Engineering">
+        <title> INFO ABT ENGINEERING </title>
+                          <!-- Using Internal CSS-->
+                      <!-- Prefrence Order of Selectors-->
+        <!-- IN LINE CSS > ID SELECTOR > CLASS SELECTOR > TYPE SELECTOR-->
+        <style type="text/css">
+             p{color:rgb(235, 15, 180);
+               font-size:large;}
+             h3{text-transform: uppercase;}
+            .big{text-transform:lowercase;}
+            .list{font-family:cursive;}
+            #sub-heading{color: rgb(92, 25, 64); font-style: oblique;}
+            #zuru:hover{color:rgb(247, 0, 255);}         
+        </style>
+         <!-- In Lines 12 nd 14 " Type selector " is used -->
+        <!-- In Lines  15 nd 16 " Class selector " is used -->
+        <!-- In Lines 17 and 18 " ID selector" is used -->
+    </head>
+    <body style="background-color: rgb(252, 252, 250);">
+        <h1 id="zuru"> FIRST BLOG PAGE </h1>
+        <h1 style="color: rgb(252, 21, 5); font-size:xx-large;"> ENGINEERING &nbsp !!!!!</h1>
+        <h2 style="color: rgba(29, 82, 47, 0.973);"><q><strong> engineer has been, and is, a maker of history</strong></q></h2>
+           <img src="eng logo.jpg"height="250" width="500"><br>
+           <audio controls></audio>
+             <source src="" type="audio/mp3">
+             <source src="" type="audio/ogg"><br>
+            <video>
+                <source src="" type="vidio/mp4" height="50" width="100" controls >
+                Vidio format not supported  
+            </video>
+        <p style="color: rgb(11, 4, 104);">
+            Engineering is the use of science and math to design or make things.<br>
+            Engineers usually design or build things.<br> Some engineers also use 
+            their skills to solve technical problems. <br> 
+            There are different types of engineers
+            that design everything from computers and buildings to watches and websites.
+        </p>
+        <h2 id="sub-heading"><b> Streams in engineering </b></h2>
+        <ol>
+        <li> <h3> 
+            <a class="list" href="https://en.wikipedia.org/wiki/Computer_engineering"> Computer Science Engineering  </a>  
+             </h3>
+             <figure>
+            <img src="cse logo.jpg"height="200"width="40%"><br>
+             Image - Computer Science
+            </figure>
+            <p>
+                Computer Science Engineering (CSE) encompasses a variety of 
+                topics<br> that relates to computation, like analysis of algorithms, 
+                programming languages,<br> program design, software, and computer hardware.
+            </p>
+               <h4><strong><i> Why CSE &nbsp ???</i></strong></h4>
+                <ul type="square">
+                    <li>Most Popular Stream</li>
+                    <li>Job Security</li>
+                    <li>Highily Paid</li>
+                    <li>Emerging Day by Day</li>
+                </ul>
+        </li>
+        <li>
+            <h3> 
+                <a class="list" href="https://en.wikipedia.org/wiki/Electrical_engineering"> Electrical Engineering  </a>  
+            </h3>
+                 <figure>
+                 <img src="eee logo.jpg"height="200"width="40%"><br>
+                 Image - Electrical Engineering
+                 </figure> 
+            <p> 
+                Electrical engineering is an engineering discipline<br> 
+                concerned with the study, design, and application of equipment,<br> devices, 
+             and systems which use electricity, electronics, and electromagnetism
+            </p>
+        </li>
+        <li>
+            <h3 class="big">
+                <a class="list" href="https://en.wikipedia.org/wiki/Mechanical_engineering"> Mechanical Engineering</a> 
+             </h3>
+             <figure>
+            <img src="mec logo.jpg"height="200"width="40%"><br>
+            Image - Mechanical Engineering
+            </figure>
+            <p>
+                Mechanical engineering is an engineering branch that combines <br>
+                engineering physics and mathematics principles with materials science<br>
+                 to design, analyze, manufacture, and maintain mechanical systems.
+            </p>
+        </li>
+        <li>
+            <h3>
+                 <a class="list" href="https://en.wikipedia.org/wiki/Civil_engineering"> Civil Engineering </a>  
+            </h3>
+            <figure>
+            <img src="civil logo.jpg"height="200"width="40%"><br>
+            Image-Civil Engineering
+            </figure>
+            <p>
+                Civil engineering is the term for the work of designing<br>
+                and building infrastructure.<br>
+                It usually means large structures, like bridges, dams, buildings, and tunnels.
+            </p>
+        </li>
+        </ol>
+        <a href="#">Back to top </a>
+    </body>
+</html>
