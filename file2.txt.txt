@@ -4,7 +4,7 @@
         <link rel="shortcut icon" type="image/x-icon" href="cse logo.jpg">
         <meta name="description" content=" this blogpage gives u complete information popular streams in engineering">
         <meta name="keywords" content="Engineering ,Streams in engineering ,CSE ,EEE ,Mechanical Engineering ,Civil Engineering">
-        <title> information ABoutT ENGINEERING </title>
+        <title> information  is ABoutT to ENGINEERING </title>
                           <!-- Using Internal CSS-->
                       <!-- Prefrence Order of Selectors-->
         <!-- IN LINE CSS > ID SELECTOR > CLASS SELECTOR > TYPE SELECTOR-->
