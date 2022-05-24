@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <link rel="shortcut icon" type="image/x-icon" href="shortchut icon.jpg">
+           <!-- Meta tags are important because they impact how your site
+                 appears in the SERPs and how many people will be inclined
+                 to click through to your website.-->
+      <meta name="description" content="">
+      <meta name="keywords" content="">
+                           <!-- Using Internal CSS-->
+                      <!-- Prefrence Order of Selectors-->
+        <!-- IN LINE CSS > ID SELECTOR > CLASS SELECTOR > TYPE SELECTOR-->
+      <style type="text/css">
+          #zuru:hover{color:rgb(252, 4, 4);}
+          #India{color:rgb(255, 0, 0);}
+          h2{font-stretch: expanded; color: rgb(250, 3, 155);}
+          .special{color: rgb(20, 197, 49);}
+          .last{color: darkgreen; }
+          p{color: rgb(135, 12, 160);}
+      </style>
+        <title> Covid Information </title>
+    </head>
+    <body>
+      <!-- Using ID Selector-->
+      <h1 id="zuru"> CORONAVIRUS - Biggest Curse Of 21st Century </h1>
+      <img src="B1 image covid.jpg" height="250" width="750"><br>
+      <!-- Using In Line CSS-->
+      <p style="color: red ; font-size: larger ;" >
+        Coronavirus disease (COVID-19) is an infectious disease caused by the SARS-CoV-2 virus.    
+      </p>
+       <!-- Using In Line CSS-->
+      <p style="color:rgb(8, 4, 255);font-size: larger;">
+        <strong> Most Important property Of Coronavirus is " MUTATION "</strong>
+      </p>
+       <!-- Using In Line CSS-->
+      <P style="color: rgb(85, 10, 74);">
+      <b>  Most people infected with the virus will experience mild to moderate respiratory
+        illness and recover without requiring special treatment. However, some will become
+        seriously ill and require medical attention.Older people and those with underlying 
+        medical conditions like cardiovascular disease, diabetes,chronic respiratory disease,<br>
+        or cancer are more likely to develop serious illness.</b>
+      </p>
+      <!-- Using Class Selector-->
+      <h2 class="special">&nbsp;&nbsp; Variants of Coronavirus </h2>
+       <!-- Using In Line CSS-->
+      <ul type="square" style="color: rgb(4, 29, 255);">
+        <img src="all in one image.jpg" height="250" width="600">
+        <li><b>SARS-CoV-2 Alpha variant </b></li>
+        <li><b> SARS-CoV-2 Beta variant </b></li>
+        <li><b> SARS-CoV-2 Gama variant </b></li>
+        <li><b> SARS-CoV-2 Delta variant </b></li>
+        <li><b> SARS-CoV-2 Omicron variant </b></li>
+    </ul>
+    <h3>&nbsp &nbsp ------ Let us study about these variants in detail------- </h3>
+    <ol type="I">
+      <li><h2> SARS-CoV-2 Alpha variant </h2></li>
+      <figure>
+      <img src="alpha image.jpg" height="230" width="400"><br>
+      Image- Alpha Variant
+      </figure>
+          <p><b> Alpha variant, also known as lineage B.1.1.7, is a variant of SARS-CoV-2
+            the virus that causes COVID-19. One of several variants of concern, the variant, 
+            is estimated to be 40–80% more transmissible than the wild-type SARS-CoV-2.
+            It was first detected in November 2020 from a sample taken in September in the
+            United Kingdom, and began to spread quickly by mid-December,
+            around the same time as infections surged. This increase is thought to be at least
+            partly because of one or more mutations in the virus' spike protein.
+            As of January 2021, more than half of all genomic sequencing of SARS-CoV-2 was 
+            carried out in UK. 
+            This has given rise to questions as to how many other important variants may
+            be circulating around the world undetected.
+            On 2 February 2021, Public Health England reported that they had detected "[a] limited 
+            number of B.1.1.7 VOC-202012/01 genomes with E484K mutations",
+            which they dubbed Variant of Concern 202102/02 (VOC-202102/02). 
+            On 31 May 2021, the World Health Organization announced that the Variant of
+            Concern would be labelled "Alpha" for use in public communications</b>
+          </p>
+           <!-- Using Style Tag-->
+        <b style="color: crimson;"> More info. available on  </b>
+        <a href="https://en.wikipedia.org/wiki/SARS-CoV-2_Alpha_variant" target="_ Blank">&nbsp; ALPHA VARIENT </a>
+        <br>
+        <br>
+        <li> <h2> SARS-CoV-2 Beta variant </h2></li>
+        <figure>
+        <img src="beta image.png" height="230" width="400"><br>
+        Image- Beta Variant
+        </figure>
+          <p><b>
+            The Beta variant, also known as lineage B.1.351, is a variant of SARS-CoV-2,
+            the virus that causes COVID-19.
+            One of several SARS-CoV-2 variants believed to be of particular importance, 
+            it was first detected in the Nelson Mandela Bay metropolitan area of the
+            Eastern Cape province of South Africa in October 2020, which was reported
+            by the country's health department on 18 December 2020. Phylogeographic
+            analysis suggests this variant emerged in the Nelson Mandela Bay area in
+            July or August 2020.The E484K spike mutation was linked to a case of
+            reinfection with the Beta variant of SARS-CoV-2 in Brazil, believed by
+            researchers to be the first such case of reinfection involving this mutation.
+            The World Health Organization labelled the variant as Beta variant, not to
+            replace the scientific name but as a name for the public to commonly refer
+            to.The WHO considers it to be a variant of concern.
+          </b></p>
+           <!-- Using Style Tag-->
+        <b style="color: crimson;"> More info. available on  </b>
+        <a href="https://en.wikipedia.org/wiki/SARS-CoV-2_Beta_variant" target="_ Blank">&nbsp; BETA VARIENT </a>
+        <br>
+        <br>
+        <li> <h2> SARS-CoV-2 Gamma variant </h2></li>
+        <figure>
+        <img src="gamma image.jpg" height="230" width="400"><br>
+        Image- Gamma Variant
+        </figure>
+          <p><b>
+            The Gamma variant, also known as lineage P.1, is one of the variants of SARS-CoV-2,
+            the virus that causes COVID-19. This variant of SARS-CoV-2 has been named lineage 
+            P.1 and has 17 amino acid substitutions, ten of which in its spike protein, including 
+            these three designated to be of particular concern: N501Y, E484K and K417T. This 
+            variant of SARS-CoV-2 was first detected by the National Institute of Infectious Diseases
+            (NIID) of Japan, on 6 January 2021 in four people who had arrived in Tokyo having visited 
+            Brazil, four days earlier. It was subsequently declared to be in circulation in
+            Brazil.Under the simplified naming scheme proposed by the World Health Organization,
+            P.1 has been labeled Gamma variant, and is currently considered a variant of concern.
+            Gamma caused widespread infection in early 2021 in the city of Manaus, the capital
+            of Amazonas, although the city had already experienced widespread infection in May 2020, 
+            with a study indicating high seroprevalence of antibodies for SARS-CoV-2.
+          </b></p>
+           <!-- Using Style Tag-->
+        <b style="color: crimson;"> More info. available on  </b>
+        <a href="https://en.wikipedia.org/wiki/SARS-CoV-2_Beta_variant" target="_ Blank">&nbsp; GAMMA VARIENT </a>
+        <br>
+        <br>
+        <li> <h2> SARS-CoV-2 Delta variant </h2></li>
+        <figure>
+        <img src="delta image.jpg" height="230" width="400"><br>
+        Image- Delta Variant
+        </figure>
+        <p><b>
+          The Delta variant is a variant of SARS-CoV-2, the virus that causes COVID-19.
+          It was first detected in India in late 2020. The Delta variant was named on 31 May 2021
+          and had spread to over 179 countries by 22 November 2021. The World Health Organization
+          (WHO) indicated in June 2021 that the Delta variant is becoming the dominant strain
+          globally.It has mutations in the gene encoding the SARS-CoV-2 spike protein 
+          causing the substitutions T478K, P681R and L452R, which are known to affect
+          transmissibility of the virus as well as whether it can be neutralised by antibodies
+          for previously circulating variants of the COVID-19 virus. It is thought to be 
+          one of the most transmissible respiratory viruses know.</b></p>
+          <!-- Using ID Selector-->
+         <h2 id="India"><strong> 
+          This variant is  responsible for India's deadly second wave of the pandemic
+          beginning in Feb. 2021
+         </h2></strong>
+         <br>
+         <!-- Using Style Tag-->
+        <b style="color: crimson;"> More info. available on  </b>
+        <a href="https://en.wikipedia.org/wiki/SARS-CoV-2_Delta_variant" target="_ Blank">&nbsp; DELTA VARIENT </a>
+        <br>
+        <br>
+        <li> <h2> SARS-CoV-2 Omicron variant </h2></li>
+        <figure>
+        <img src="Omicron image.jpg" height="230" width="400"><br>
+        Image- Omicron Variant
+        </figure>
+        <p><b>
+          The Omicron variant is a variant of SARS-CoV-2, the virus that causes COVID-19.
+          It was first reported to the World Health Organization (WHO) from South Africa 
+          on 24 November 2021. On 26 November 2021, the WHO designated it as a variant
+          of concern and named it omicron, the fifteenth letter in the Greek alphabet
+          The variant has an unusually large number of mutations, several of which are
+          novel and a significant number of which affect the spike protein targeted by
+          most COVID-19 vaccines at the time of discovering theOmicron variant. This 
+          level of variation has led to concerns regarding its transmissibility, immune 
+          system evasion, and vaccine resistance. As a result,the variant was quickly
+          designated as being "of concern", and travel restrictions were introduced by
+          several countries in an attempt to slow its international spread.
+          However, the variant has spread to over 70 countries as of 13 December 2021.
+        </b></p>
+         <!-- Using Style Tag-->
+        <b style="color: crimson;"> More info. available on  </b>
+        <a href="https://en.wikipedia.org/wiki/SARS-CoV-2_Omicron_variant" target="_ Blank">&nbsp; OMICRON VARIENT </a>
+        <br>
+        <br>
+        <!-- Using Class Selector-->
+        <h2 class="last">!!!!!! &nbsp; METHODS OF PREVENION &nbsp; !!!!!! </h2>
+         <!-- Using In Line CSS-->
+        <ul type="square" style="color: rgb(255, 0, 0);" >
+          <li><strong><h3> A safe distance from others (at least 1 metre), even if they don’t appear to be sick.</h3></strong></li>
+          <li><strong><h3> Wear a mask in public, especially indoors or when physical distancing is not possible.</h3></strong></li>
+          <li><strong><h3> Choose open, well-ventilated spaces over closed ones. Open a window if indoors.</h3></strong></li>
+          <li><strong><h3> Clean your hands often. Use soap and water, or an alcohol-based hand rub.</h3></strong></li>
+          <li><strong><h3> Get vaccinated when it’s your turn. Follow local guidance about vaccination.</h3></strong></li>
+          <li><strong><h3> Cover your nose and mouth with your bent elbow or a tissue when you cough or sneeze.</h3></strong></li>
+          <li><strong><h3> Stay home if you feel unwell.</b></li>
+        </ul>
+    </ol>
+    <br>
+    <h1> <b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; EVERY SINGLE LIFE MATTERS , BE SAFE , LOVE URSELF </b></h1>
+    <br>
+    <a href="#">Back to top </a>  
+    </body>
+</html>
